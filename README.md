@@ -2,7 +2,7 @@
 
 <br />
 
-I'm [Jefferson Alves](https://abhishknads.me/), a passionate self-taught back end web developer. 
+I'm [Jefferson Alves](https://abhishknads.me/), a passionate self-taught back end developer. 
 I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
